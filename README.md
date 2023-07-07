@@ -15,3 +15,9 @@ Alternatif :
 - bleachbit
 - stacer
 - 
+
+> the hard way is to find unusable package, we think that usable but it's not. 
+
+- https://pkgstats.archlinux.de/
+- pactop
+
