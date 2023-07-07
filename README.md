@@ -1,5 +1,5 @@
 # CleanMyLinux
-Arch Based Linux
+Arch or Manjaro Based Linux
 
 ```
 curl https://raw.githubusercontent.com/irfnrdh/CleanMyLinux/main/clean.sh | sh
